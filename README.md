@@ -1,5 +1,4 @@
-# Love Running
-
+# Love Maths
 Website created as part of the Diploma in Full-Stack Software Development at Code Institute.
 
 ## Live Site
